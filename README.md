@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Node.js
 
 
 
