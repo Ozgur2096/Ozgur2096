@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning PHP
 
 
 
