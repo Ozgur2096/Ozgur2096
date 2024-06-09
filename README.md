@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning PHP
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozgur2096&layout=compact)
+
+
 
 
