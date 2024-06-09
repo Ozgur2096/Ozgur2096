@@ -13,12 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning PHP
+## Contributions
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ozgur2096&theme=default)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozgur2096&layout=compact)
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozgur2096&show_icons=true)
+
+
 
 
 
